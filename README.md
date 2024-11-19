@@ -1,7 +1,7 @@
 # House_Price_Prediction_Python
 Final Project for CS667 class - Practical Data Science
 
-# Contacts:
+## Contacts:
 
 Thao Nguyen
 
@@ -9,7 +9,7 @@ Thao Nguyen
 
 Status: In Progress
 
-# Project desciption:
+## Project desciption:
 
 This analysis aims to predict home prices based on a variety of key factors that impact property value. The outcome will help better understand how these features influence pricing, allowing the company to offer clients strategic advices on buying and selling, investment opportunities, and current market trends. This analysis will enhance our ability to provide data-driven guidance in real estate.
 
